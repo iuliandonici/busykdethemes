@@ -11,7 +11,7 @@
         "EnabledByDefault": true,
         "Id": "Sweet-Ambar-Blue",
         "License": "GPL 3+",
-        "Name": "busytheme-plasma",
+        "Name": "busykdetheme-plasma",
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
