@@ -1,6 +1,6 @@
 [SddmGreeterTheme]
-Name=busytheme-sddm
-Description=Nusy sddm theme
+Name=busykdetheme-sddm
+Description=Busy KDE SDDM theme
 Author=Iulian Donici
 Copyright=(c) 2022, Eliver Lara
 License=GPL 3+
@@ -12,6 +12,6 @@ MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
 Email=iuliandonici@gmail.com
-Theme-Id=busytheme-plasma
+Theme-Id=busykdetheme-plasma
 Theme-API=2.0
 QtVersion=6
