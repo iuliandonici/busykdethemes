@@ -10,7 +10,7 @@
         "Description": "A global KDE Plasma 6",
         "Id": "busykdeplugin-sweet",
         "License": "LGPL 3+",
-        "Name": "busykdetheme-sweet",
+        "Name": "busykdetheme-plasma",
         "Website": "https://www.busy.network"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
