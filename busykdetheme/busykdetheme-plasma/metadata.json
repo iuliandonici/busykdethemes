@@ -3,8 +3,8 @@
     "KPlugin": {
         "Authors": [
             {
-                "Email": "eliverlara@gmail.com",
-                "Name": "EliverLara"
+                "Email": "iuliandonici@gmail.com",
+                "Name": "Iulian Donici"
             }
         ],
         "Category": "Plasma Look And Feel",
@@ -16,7 +16,7 @@
             "Plasma/LookAndFeel"
         ],
         "Version": "0.1",
-        "Website": "https://github.com/EliverLara/Sweet/tree/Ambar-Blue/kde"
+        "Website": "https://busy.network/"
     },
     "X-KPackage-Dependencies": [
         "kns://colorschemes.knsrc/api.kde-look.org/1897307",
