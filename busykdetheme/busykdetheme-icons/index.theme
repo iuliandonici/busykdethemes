@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=busykdetheme-icons
-Comment=Sweet gradient icons.
+Comment=Busy gradient icons.
 Inherits=breeze-dark,Adwaita,hicolor
 FollowsColorScheme=true
 
