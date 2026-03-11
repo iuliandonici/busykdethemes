@@ -8,7 +8,8 @@
             }
         ],
         "Description": "A global KDE Plasma 6",
-        "Id": "busykdeplugin-sweet",
+        "EnabledByDefault": true,
+        "Id": "busykdeplugin-plasma",
         "License": "LGPL 3+",
         "Name": "busykdetheme-plasma",
         "Website": "https://www.busy.network"
