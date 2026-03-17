@@ -1,17 +1,17 @@
 [SddmGreeterTheme]
 Name=busykdetheme-sddm
 Description=Busy KDE Plasma SDDM theme
-Author=Eliver Lara
-Copyright=(c) 2022, Eliver Lara
+Author=Iulian Donici
+Copyright=(c) 2026, Iulian Donici
 License=GPL 3+
 Type=sddm-theme
 Version=0.1
-Website=https://github.com/EliverLara/Sweet/tree/Ambar-Blue/kde/sddm
+Website=https://github.com/iuliandonici/busykdethemes/
 Screenshot=preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Email=eliverlara@gmail.com
+Email=iuliandonici@gmail.com
 Theme-Id=busykdetheme-sddm
 Theme-API=2.0
 QtVersion=6
