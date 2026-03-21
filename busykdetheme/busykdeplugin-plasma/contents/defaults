@@ -1,11 +1,11 @@
 [kcminputrc][Mouse]
-cursorTheme=Sweet-cursors
+cursorTheme=busykdetheme-cursors
 
 [kdeglobals][General]
-ColorScheme=SweetAmbarBlue
+ColorScheme=busykdetheme
 
 [kdeglobals][Icons]
-Theme=candy-icons
+Theme=busykdetheme-icons
 
 [kdeglobals][KDE]
 widgetStyle=Breeze
@@ -21,4 +21,4 @@ library=org.kde.breeze
 theme=Breeze
 
 [plasmarc][Theme]
-name=Sweet-Ambar-Blue
+name=busykdetheme-plasma

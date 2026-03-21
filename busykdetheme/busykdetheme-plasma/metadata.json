@@ -7,26 +7,13 @@
                 "Name": "Iulian Donici"
             }
         ],
-        "Category": "Plasma Look And Feel",
-        "EnabledByDefault": true,
+        "Description": "An experimental theme for KDE Plasma 6+",
         "Id": "busykdetheme-plasma",
-        "License": "GPL 3+",
+        "License": "LGPL 2.1+",
         "Name": "busykdetheme-plasma",
-        "ServiceTypes": [
-            "Plasma/LookAndFeel"
-        ],
-        "Version": "0.1",
-        "Website": "https://busy.network/"
+        "Website": "https://iuliandonici.com/"
     },
-    "X-KPackage-Dependencies": [
-        "kns://colorschemes.knsrc/api.kde-look.org/1897307",
-        "kns://plasma-themes.knsrc/api.kde-look.org/1897309",
-        "kns://aurorae.knsrc/api.kde-look.org/1897308",
-        "kns://icons.knsrc/api.kde-look.org/1305251",
-        "kns://wallpaper.knsrc/api.kde-look.org/1309907",
-        "kns://sddmtheme.knsrc/api.kde-look.org/2149362",
-        "kns://xcursor.knsrc/api.kde-look.org/1393084",
-        "kns://plasmoids.knsrc/api.kde-look.org/2144212",
-        "kns://plasmoids.knsrc/api.kde-look.org/2196105"
-    ]
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default"
 }

@@ -7,12 +7,11 @@
                 "Name": "Iulian Donici"
             }
         ],
-        "Description": "A global KDE Plasma 6",
-        "EnabledByDefault": true,
-        "Id": "busykdeplugin-plasma",
-        "License": "LGPL 3+",
-        "Name": "busykdeplugin-plasma",
-        "Website": "https://www.busy.network"
+        "Description": "An experimental theme for KDE Plasma 6+",
+        "Id": "busykdeplugin-plasma3",
+        "License": "LGPL 2.1+",
+        "Name": "busykdetheme-plasma3",
+        "Website": "https://iuliandonici.com/"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
     "X-Plasma-APIVersion": "2",

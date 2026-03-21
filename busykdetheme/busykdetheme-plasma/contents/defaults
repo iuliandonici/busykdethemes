@@ -1,20 +1,24 @@
-[kdeglobals][KDE]
-widgetStyle=kvantum
+[kcminputrc][Mouse]
+cursorTheme=busykdetheme-cursors
 
 [kdeglobals][General]
-ColorScheme=Sweet-Ambar-Blue
+ColorScheme=busykdetheme
 
 [kdeglobals][Icons]
-Theme=candy-icons
+Theme=busykdetheme-icons
 
-[kcminputrc][Mouse]
-cursorTheme=Sweet-cursors
+[kdeglobals][KDE]
+widgetStyle=Breeze
 
-[plasmarc][Theme]
-name=Sweet-Ambar-Blue
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Sweet-ambar-blue
+library=org.kde.breeze
+theme=Breeze
 
-
+[plasmarc][Theme]
+name=busykdetheme-plasma
