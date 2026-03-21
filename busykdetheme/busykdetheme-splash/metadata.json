@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "iuliandonici@gmail.com",
+                "Name": "Iulian Donici"
+            }
+        ],
+        "Category": "",
+        "Description": "Matrix Code splash screen for Plasma 6 KDE",
+        "Id": "busykdetheme-splash",
+        "License": "GPLv3",
+        "Name": "busykdetheme-splash",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
