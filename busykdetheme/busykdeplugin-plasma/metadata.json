@@ -11,7 +11,7 @@
         "EnabledByDefault": true,
         "Id": "busykdeplugin-plasma",
         "License": "LGPL 3+",
-        "Name": "busykdetheme-plasma",
+        "Name": "busykdeplugin-plasma",
         "Website": "https://www.busy.network"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
