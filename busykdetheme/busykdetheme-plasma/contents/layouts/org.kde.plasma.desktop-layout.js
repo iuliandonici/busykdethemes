@@ -173,7 +173,7 @@ var layout = {
                     "wallpaperplugin": "org.kde.image"
                 }
             },
-            "height": 4.222222222222222,
+            "height": 3.9444444444444446,
             "hiding": "normal",
             "location": "bottom",
             "maximumLength": 106.66666666666667,

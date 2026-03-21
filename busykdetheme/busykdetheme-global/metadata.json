@@ -8,9 +8,9 @@
             }
         ],
         "Description": "An experimental theme for KDE Plasma 6+",
-        "Id": "busykdeplugin-plasma3",
-        "License": "LGPL 2.1+",
-        "Name": "busykdetheme-plasma3",
+        "Id": "busykdetheme-global",
+        "License": "BSD",
+        "Name": "busykdetheme-global",
         "Website": "https://iuliandonici.com/"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",

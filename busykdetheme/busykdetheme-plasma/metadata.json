@@ -9,7 +9,7 @@
         ],
         "Description": "An experimental theme for KDE Plasma 6+",
         "Id": "busykdetheme-plasma",
-        "License": "LGPL 2.1+",
+        "License": "BSD",
         "Name": "busykdetheme-plasma",
         "Website": "https://iuliandonici.com/"
     },
